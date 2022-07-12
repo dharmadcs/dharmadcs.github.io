@@ -360,14 +360,14 @@ h2.slogan{
 	height: 100%;
 	position: relative;
 }
-.plagin_list li.li_1 a{background: url(../images/icon_ps.png) no-repeat 50% 50% ;}
-.plagin_list li.li_2 a{background: url(../images/icon_ai.png) no-repeat 50% 50% ;}
-.plagin_list li.li_3 a{background: url(../images/icon_ld.png) no-repeat 50% 50% ;}
-.plagin_list li.li_4 a{background: url(../images/icon_fl.png) no-repeat 50% 50% ;}
-.plagin_list li.li_5 a{background: url(../images/icon_html.png) no-repeat 50% 50% ;}
-.plagin_list li.li_6 a{background: url(../images/icon_wp.png) no-repeat 50% 50% ;}
-.plagin_list li.li_7 a{background: url(../images/icon_jq.png) no-repeat 50% 50% ;}
-.plagin_list li.li_8 a{background: url(../images/icon_seo.png) no-repeat 50% 50% ;}
+.plagin_list li.li_1 a{background: url(../images/html.png) no-repeat 50% 50% ;}
+.plagin_list li.li_2 a{background: url(../images/css.png) no-repeat 50% 50% ;}
+.plagin_list li.li_3 a{background: url(../images/php.png) no-repeat 50% 50% ;}
+.plagin_list li.li_4 a{background: url(../images/laravel.png) no-repeat 50% 50% ;}
+.plagin_list li.li_5 a{background: url(../images/mysql.png) no-repeat 50% 50% ;}
+.plagin_list li.li_6 a{background: url(../images/api.png) no-repeat 50% 50% ;}
+.plagin_list li.li_7 a{background: url(../images/github.png) no-repeat 50% 50% ;}
+.plagin_list li.li_8 a{background: url(../images/vs.png) no-repeat 50% 50% ;}
 .wrapper-holder.grey p{padding: 0 0 25px;}
 .plagin_list.none{display: none;}
 
@@ -649,58 +649,43 @@ transition: all 0.5s ease-in-out;
 		background-image: url(../images/bg_timeline_c@x2.png);
 		background-size:50px 86px;
 	}
-	.footer-content .social li.email a{
-		background-image: url(../images/icon_email@x2.png);
-		background-size:51px 38px;
-	}
-	.footer-content .social li.facebook a{
-		background-image: url(../images/icon_fb@x2.png);
-		background-size:20px 38px;
-	}
-	.footer-content .social li.google a{
-		background-image: url(../images/icon_gl@x2.png);
-		background-size:42px 38px;
-	}
-	.footer-content .social li.twitter a{
-		background-image: url(../images/icon_tw@x2.png);
-		background-size:44px 34px;
-	}
-	.footer-content .social li.pinterest a{
-		background-image: url(../images/icon_pn@x2.png);
-		background-size:38px 38px;
-	}
+
+
 	.plagin_list li.li_1 a{
-		background-image: url(../images/icon_ps@x2.png);
-		background-size:49px 42px;
+		background-image: url(../images/html.png);
+		background-size:55px 55px;
 	}
 	.plagin_list li.li_2 a{
-		background-image: url(../images/icon_ai@x2.png);
-		background-size:45px 42px;
+		background-image: url(../images/css.png);
+		background-size:55px 55px;
 	}
 	.plagin_list li.li_3 a{
-		background-image: url(../images/icon_ld@x2.png);
-		background-size:40px 43px;
+		background-image: url(../images/php.png);
+		background-size:55px 55px;
 	}
 	.plagin_list li.li_4 a{
-		background-image: url(../images/icon_fl@x2.png);
-		background-size:34px 42px;
+		background-image: url(../images/laravel.png);
+		background-size:55px 55px;
 	}
 	.plagin_list li.li_5 a{
-		background-image: url(../images/icon_html@x2.png);
-		background-size:39px 55px;
+		background-image: url(../images/mysql.png);
+		background-size:55px 55px;
 	}
 	.plagin_list li.li_6 a{
-		background-image: url(../images/icon_wp@x2.png);
+		background-image: url(../images/api.png);
 		background-size:55px 55px;
 	}
 	.plagin_list li.li_7 a{
-		background-image: url(../images/icon_jq@x2.png);
-		background-size:87px 20px;
+		background-image: url(../images/github.png);
+		background-size:55px 55px;
 	}
 	.plagin_list li.li_8 a{
-		background-image: url(../images/icon_seo@x2.png);
-		background-size:60px 24px;
+		background-image: url(../images/vs.png);
+		background-size:55px 55px;
 	}
+
+
+	
 	.box_contact span.email{
 		background-image: url(../images/icon_email2@x2.png);
 		background-size:54px 41px;
